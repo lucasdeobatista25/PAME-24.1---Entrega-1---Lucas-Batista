@@ -94,7 +94,5 @@ class Sistema{
 
 
 
-//Mostrar na tela
-while(true){
-    exibir
-}
+//Mostrar na tela)
+sistema = new Sistema 
